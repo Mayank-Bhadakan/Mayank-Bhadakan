@@ -1,34 +1,154 @@
-# Hi 👋, I'm Mayank Bhadakan
+<h1 align="center">Hi 👋, I'm Mayank Bhadakan</h1>
+<h3 align="center">Full-Stack Software Engineer | Backend & System Design Focused</h3>
 
-### A Full-Stack Software Engineer passionate about building scalable, secure, and intelligent systems
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mayank-Bhadakan" alt="Mayank-Bhadakan" /></a> </p>
-
-- 🔭 I'm currently working on **Building scalable full-stack applications with React and Node.js, focusing on backend system design, secure authentication, and AI-powered workflows.**
-
-- 🌱 I'm currently learning **Advanced system design, scalable backend architectures, and performance optimization for production-grade applications.**
-
-- 👯 I'm looking to collaborate on **Full-stack or backend projects involving scalable APIs, system design, and real-world problem solving.**
-
-- 🤝 I'm looking for help with **Improving AI-driven workflows, analytics pipelines, and observability in backend systems.**
-
-- 💬 Ask me about **Full-stack development, backend system design, and building scalable, production-ready applications.**
-
-- 📫 How to reach me **mayankbhadakan95@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Mayank-Bhadakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mayank-Bhadakan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mayank-bhadakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-bhadakan" height="30" width="40" /></a>
-<a href="https://instagram.com/mayank_bhadakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank_bhadakan" height="30" width="40" /></a>
+<p align="center">
+  <em>Building scalable, secure, and intelligent systems with real-world impact</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angularjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angularjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flutter" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/xd" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="40" height="40"/> </a></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mayank-Bhadakan&theme=flat&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayank-Bhadakan&show_icons=true&locale=en&layout=compact" alt="Mayank-Bhadakan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mayank-Bhadakan&show_icons=true&locale=en" alt="Mayank-Bhadakan" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Bhadakan&" alt="Mayank-Bhadakan" /></p>
+I’m a **Full-Stack Software Engineer** with hands-on experience designing and delivering **production-grade web and mobile applications**.  
+My work spans **frontend engineering, backend system design, secure authentication, and AI-powered workflows**.
 
+I enjoy solving **real-world problems** by building systems that are:
+- Scalable
+- Secure
+- Maintainable
+- Performance-oriented
+
+Currently pursuing my **Master’s in Computer Science** while actively preparing for **full-time software engineering roles**.
+
+---
+
+## 💼 What I’m Currently Working On
+
+- 🔭 Building **scalable full-stack applications** using React and Node.js  
+- 🧠 Designing **backend systems**, REST APIs, and secure authentication (JWT, RBAC)  
+- 🤖 Developing **AI-powered workflows** and analytics-driven features  
+
+---
+
+## 🌱 What I’m Currently Learning
+
+- Advanced **system design**
+- **Scalable backend architectures**
+- Performance optimization for **production-grade applications**
+- Distributed systems fundamentals
+
+---
+
+## 👯 I’m Looking to Collaborate On
+
+- Full-stack or backend projects involving  
+  **scalable APIs, system design, and real-world problem solving**
+- Product-focused engineering with emphasis on **architecture and reliability**
+
+---
+
+## 🤝 I’m Looking for Help With
+
+- Feedback on **system design and scalability**
+- Improving **AI-driven workflows, analytics pipelines, and observability**
+- Best practices for production-ready backend systems
+
+---
+
+## 💬 Ask Me About
+
+- Full-stack development (React, Node.js)
+- Backend system design & REST APIs
+- Authentication systems (JWT, RBAC)
+- Building scalable, production-ready applications
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 AI Ticket Assistant
+**AI-powered full-stack ticket management system**
+- MERN stack + Gemini AI
+- Intelligent ticket classification & automation
+- RBAC dashboards, analytics, and system logs
+- Event-driven workflows with retries and notifications
+
+### 🔹 Quick Coach App
+**Real-time Android coaching platform**
+- Chat, file sharing, session coordination
+- Firebase Authentication & Realtime Database
+- Focused on stability and UX optimization
+
+### 🔹 MCQ Quiz Application
+**Secure quiz platform**
+- Admin-controlled workflows
+- Backend APIs & structured data models
+- Authentication and deployment-ready design
+
+---
+
+## 🛠️ Languages & Tools
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,kotlin,sql" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,threejs" />
+</p>
+
+### ⚙️ Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Practices
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:mayankbhadakan95@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mayankbhadakan95%40gmail.com-red?style=flat&logo=gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/mayank-bhadakan">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Bhadakan-blue?style=flat&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayank-Bhadakan&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayank-Bhadakan&show_icons=true&locale=en" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Bhadakan" />
+</p>
+
+---
+
+⚡ *I enjoy breaking down complex systems and rebuilding them in simpler, more scalable ways.*
