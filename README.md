@@ -5,11 +5,7 @@
   <em>Building scalable, secure, and intelligent systems with real-world impact</em>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=Mayank-Bhadakan)](https://github.com/ryo-ma/github-profile-trophy)" alt="GitHub Trophies"/>
-  </a>
-</p>
+
 
 ---
 
