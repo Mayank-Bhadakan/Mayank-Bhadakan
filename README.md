@@ -121,30 +121,10 @@ Currently pursuing my **Master’s in Computer Science** while actively preparin
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:mayankbhadakan95@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mayankbhadakan95%40gmail.com-red?style=flat&logo=gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/mayank-bhadakan">
-    <img src="https://img.shields.io/badge/LinkedIn-Mayank%20Bhadakan-blue?style=flat&logo=linkedin"/>
-  </a>
+<a href="https://github.com/Mayank-Bhadakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mayank-Bhadakan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mayank-bhadakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-bhadakan" height="30" width="40" /></a>
+<a href="https://instagram.com/mayank_bhadakan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayank_bhadakan" height="30" width="40" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayank-Bhadakan&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayank-Bhadakan&show_icons=true&locale=en" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Bhadakan" />
-</p>
-
----
-
-⚡ *I enjoy breaking down complex systems and rebuilding them in simpler, more scalable ways.*
