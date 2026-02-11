@@ -98,23 +98,42 @@ Currently pursuing my **Master’s in Computer Science** while actively preparin
 
 ### 🌐 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,threejs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,threejs,redux,tailwind" />
 </p>
 
 ### ⚙️ Backend & Systems
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
+
+### 🏗️ Architecture & Concepts
+<p>
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+> REST APIs • JWT Authentication • RBAC • Event-Driven Architecture • System Design • Performance Optimization • Clean Architecture • Scalable Backend Systems
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-### 🧰 Tools & Practices
+### ☁️ Cloud & Backend Services
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=firebase,vercel" />
 </p>
+
+### 🧰 Tools & Dev Practices
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
+
+### 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin" />
+</p>
+
 
 ---
 
